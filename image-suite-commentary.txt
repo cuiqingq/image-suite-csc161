@@ -1,0 +1,21 @@
+/***********************************************************************
+ * Project: Image Suite
+ ***********************************************************************/ 
+ 
+pixelStrip: The image R G or B component increased depending
+on the option chosen as expected and shown by the output picture.
+
+pictureRedder: The output picture's red component was greater and the other
+two decreased as expected.
+
+pictureBluer:The output picture's blue component was greater and the other
+two decreased as expected.
+
+pictureGreener: The output picture's green component was greater and the other
+two decreased as expected.
+
+circleSelect: The pixels inside the circle specified are adjusted to
+grayscale values as expected.
+
+pictureEdges: Generates a new picture that has pixel values reflecting the
+change in brightness of the original picture.
